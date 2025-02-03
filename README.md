@@ -15,5 +15,5 @@ Capture a "full" S&P500 graph from FRED as a Jupyter notebook. See [#12](https:/
 
 <br><br><br><br><br><br><br><br><br>
 
-<div style="font-size: 6pt;">Jerry's immediate family: spouse: Joanne, children: Andrew, Seth, Nyan
+<div style="font-size: 6pt;">Jerry's immediate family: spouse: Joanne, children: Andrew, Seth, Nyan<br>
 Daniel's immediate family: spouse: Sherri, children: Jamie, Patrick, Robin, Christian, Marcus, Sophie</div>
