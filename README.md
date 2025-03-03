@@ -18,7 +18,7 @@ Jerry defines a minimum viable product for Blockchain Will Bots [#20](https://gi
 
 Dan captures a "full" S&P500 graph from FRED as a Jupyter notebook. See [#12](https://github.com/pflagerd/gerry-and-dan/issues/12)
 
-
+Do Jupyter notebook about what if I could perfectly time the market, how would I maximize my profit on S&P500. [#75](https://github.com/pflagerd/gerry-and-dan/issues/75)
 
 
 
