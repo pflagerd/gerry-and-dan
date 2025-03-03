@@ -7,11 +7,16 @@ Where Jerry and Dan figure stuff out
 
 Jerry turns on notifications for THIS repo.
 
-Understand the "doom loop" for Bonds/The Credit Market. See [#11](https://github.com/pflagerd/gerry-and-dan/issues/11)
+Jerry attempts to understand the "doom loop" for Bonds/The Credit Market. See [#11](https://github.com/pflagerd/gerry-and-dan/issues/11)
 
 Jerry defines a minimum viable product for Blockchain Will Bots [#20](https://github.com/pflagerd/gerry-and-dan/issues/20)
 
-Capture a "full" S&P500 graph from FRED as a Jupyter notebook. See [#12](https://github.com/pflagerd/gerry-and-dan/issues/12)
+
+<br><br><br>
+
+
+
+Dan captures a "full" S&P500 graph from FRED as a Jupyter notebook. See [#12](https://github.com/pflagerd/gerry-and-dan/issues/12)
 
 
 
